@@ -1,0 +1,39 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": false,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true,
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "sync": {
+      "type": "github",
+      "username": "YangYangYang88",
+      "repo": "blogImage",
+      "branch": "master",
+      "token": "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",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI"
+}
